@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "lib": ["es2017"],
+    "module": "commonjs",
+    "noImplicitReturns": true,
+    "outDir": "build",
+    "sourceMap": true,
+    "target": "es6",
+    "forceConsistentCasingInFileNames": true,
+    "noImplicitThis": true,
+    "noImplicitAny": false,
+    "strictNullChecks": true,
+    "suppressImplicitAnyIndexErrors": true,
+  },
+  "compileOnSave": true,
+  "include": [
+    "src"
+  ]
+}

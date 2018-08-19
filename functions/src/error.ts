@@ -1,0 +1,3 @@
+class Errorcustom extends Error {
+  
+}
